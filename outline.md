@@ -3,21 +3,21 @@
 ## Overview
 
 - Ducration of every class will be around 2 hours.
-- You must understand the whole topic and submit homework.
+- You must understand the whole topic and submit homework regularly.
 - You must experiment with the topics we will discuss on class.
 
 ## Responsive Web Design
 
-| Day | Topic | Sub Topics                                 |
-| --- | ----- | ------------------------------------------ |
-| 00  | Web   | Back to The History, Discussion On Course  |
-| 01  | HTML  | Basic HTML Syntax, Writing Meaningful Code |
-| 02  | HTML  | Basic SEO, Accesibility, **Practice**      |
-| 03  | CSS   | Basic CSS Syntax, Color                    |
-| 04  | CSS   | Box Model, CSS Grid, Flexbox               |
-| 05  | CSS   | FLoat, Position, Display                   |
-| 06  | CSS   | Media Queries, **Practice**                |
-| 07  | CSS   | **Project**                                |
+| Day | Topic | Sub Topics                                          |
+| --- | ----- | --------------------------------------------------- |
+| 00  | Web   | Back to The History, Discussion On Course, Workflow |
+| 01  | HTML  | Basic HTML Syntax, Writing Meaningful Code          |
+| 02  | HTML  | Basic SEO, Accesibility, **Practice**               |
+| 03  | CSS   | Basic CSS Syntax, Color                             |
+| 04  | CSS   | Box Model, CSS Grid, Flexbox                        |
+| 05  | CSS   | FLoat, Position, Display                            |
+| 06  | CSS   | Media Queries, **Practice**                         |
+| 07  | CSS   | **Project**                                         |
 
 ## JavaScript
 
@@ -46,7 +46,7 @@
 | 23  | Library & Framework | Sass        |
 | 24  | Library & Framework | **Project** |
 
-## Must Know
+## Finalization
 
 | Day | Topic         | Sub Topics                        |
 | --- | ------------- | --------------------------------- |
